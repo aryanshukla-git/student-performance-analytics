@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance,Total,Average,Grade,Result,Attendance_Status,Rank
+S101,Aarav Sharma,Computer Science,88,82,79,75,94,92,418,83.6,A,Pass,OK,6
+S102,Priya Verma,Computer Science,92,89,85,90,97,96,453,90.6,A+,Pass,OK,2
+S103,Rohan Mehta,Mechanical,67,72,65,70,60,81,334,66.8,C,Pass,OK,14
+S104,Ananya Gupta,Electronics,78,74,80,85,82,88,399,79.8,B,Pass,OK,8
+S105,Vikram Singh,Mechanical,45,52,48,60,40,70,245,49.0,E,Pass,Low,17
+S106,Sneha Patel,Computer Science,95,91,93,88,99,98,466,93.2,A+,Pass,OK,1
+S107,Karan Joshi,Civil,58,62,55,68,50,76,293,58.6,D,Pass,OK,15
+S108,Neha Iyer,Electronics,84,80,77,82,88,90,411,82.2,A,Pass,OK,7
+S109,Arjun Reddy,Civil,33,45,40,55,38,62,211,42.2,F,Fail,Low,18
+S110,Divya Nair,Computer Science,72,68,74,79,85,85,378,75.6,B,Pass,OK,9
+S111,Rahul Yadav,Mechanical,81,76,70,66,72,83,365,73.0,B,Pass,OK,10
+S112,Isha Kapoor,Electronics,90,87,91,93,89,95,450,90.0,A+,Pass,OK,3
+S113,Manish Tiwari,Civil,52,48,44,60,55,68,259,51.8,D,Pass,Low,16
+S114,Pooja Das,Computer Science,65,70,62,74,78,79,349,69.8,C,Pass,OK,12
+S115,Siddharth Rao,Electronics,38,42,36,50,45,64,211,42.2,E,Pass,Low,18
+S116,Kavya Menon,Civil,86,83,88,91,80,93,428,85.6,A,Pass,OK,4
+S117,Amit Chauhan,Mechanical,74,69,72,64,70,80,349,69.8,C,Pass,OK,12
+S118,Riya Bansal,Computer Science,79,85,81,87,92,91,424,84.8,A,Pass,OK,5
+S119,Deepak Kumar,Mechanical,30,41,39,52,44,58,206,41.2,F,Fail,Low,20
+S120,Meera Pillai,Electronics,69,73,66,78,71,84,357,71.4,B,Pass,OK,11
